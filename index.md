@@ -9,7 +9,7 @@ Lab 7, part 1
 
 What I learned: 
 
-  I learned how to build a program that makes deceions based on the conditions such as time and day.
+  I learned how to build a program that makes decisions based on the conditions such as time and day.
 
 Lab 4, part 1
 
