@@ -1,6 +1,6 @@
 # Angel Ochoa's Portfolio 
 
-I am a undergraduate Computer Science student at CSUF and I expected to graduate in 2028. 
+I am a undergraduate Computer Science student at CSUF and I expect to graduate in 2028. 
 
 ## Favorite CPSC 120L Labs
 Lab 7, part 1
